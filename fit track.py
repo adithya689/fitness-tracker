@@ -2,7 +2,6 @@ print("=" * 40)
 print("       FITTRACK ANALYZER")
 print("=" * 40)
 
-# Get fitness information from the user
 weight = float(input("Enter your weight in kg: "))
 steps = int(input("Enter your daily steps: "))
 workout_minutes = int(input("Enter workout duration in minutes: "))
